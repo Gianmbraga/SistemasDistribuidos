@@ -2,11 +2,11 @@
  An E-commerce of a project. Used Client-Server model with a Multi Thread system operated on different machines for each application.
 ***
 
-# Depenecies and Inicialization
+# Dependencies and Initialization
 
 To make the project work simply start the server and then the client to make the requests as desired.
 
-## operating system
+## Operating system
 Windows 10
 
 ## Client: 
