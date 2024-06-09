@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "ÁGUA SEM GAS 200ml",
+        "id": 1,
+        "estoque": 1
+    }, 
+
+    {
+        "nome": "ÁGUA COM GAS 200ml",
+        "id": 2,
+        "estoque": 1
+    }, 
+
+    {
+        "nome": "SUCO DE LARANJA 500ml",
+        "id": 3,
+        "estoque": 1
+    }, 
+
+    {
+        "nome": "Coca-Cola 250ml",
+        "id": 4,
+        "estoque": 1
+    },
+
+    {
+        "nome": "Red Bull 475ml",
+        "id": 5,
+        "estoque": 1
+    }
+
+]

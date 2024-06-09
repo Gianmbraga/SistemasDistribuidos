@@ -1,0 +1,61 @@
+[ 
+    {
+        "nome": "ÁGUA SEM GAS 200ml",
+        "id": 1,
+        "estoque": 5
+    }, 
+
+    {
+        "nome": "ÁGUA COM GAS 200ml",
+        "id": 2,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "SUCO DE LARANJA 500ml",
+        "id": 3,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Coca-Cola 250ml",
+        "id": 4,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Red Bull 475ml",
+        "id": 5,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Guaraviton Açaí 500ml",
+        "id": 6,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Energético Vrauu 250ml",
+        "id": 7,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Corote 500ml",
+        "id": 8,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Monster 500ml",
+        "id": 9,
+        "estoque": 5
+    },
+  
+    {
+        "nome": "Suco Mupy de maçã 250ml",
+        "id": 10,
+        "estoque": 5
+    } 
+]
